@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻 const armaan = {<br>  focus: ["full stack", "web dev", "building stuff that works"],<br>  projects: ["Project tools", "AI image app", "SaaS tools"],<br>  stack: ["Next.js", "React", "Tailwind", "Node.js", "PostgreSQL", "AWS"],<br>  certs: ["Python", "SQL", "Data Science"],<br>  mindset: "learn → build → repeat"<br>}<br>
 
 
