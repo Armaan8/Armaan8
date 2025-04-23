@@ -1,5 +1,8 @@
-# About Me:
-👨‍💻 const armaan = {<br>  focus: ["full stack", "web dev", "building stuff that works"],<br>  projects: ["Project tools", "AI image app", "SaaS tools"],<br>  stack: ["Next.js", "React", "Tailwind", "Node.js", "PostgreSQL", "AWS"],<br>  certs: ["Python", "SQL", "Data Science"],<br>  mindset: "learn → build → repeat"<br>}<br>
+# 👋 Hey there, I’m Armaan
+🛠 Learning and building web apps and exploring AI integration <br>
+🧰 Python, SQL, Next.js, React, Tailwind CSS, Node.js (Express), Prisma & PostgreSQL, Firebase, Supabase, AWS <br>
+💡 Always up for collaborating on projects that make an impact <br>
+🎨 Currently working on my portfolio website <br>
 
 
 # 💻 Tech Stack:
