@@ -1,8 +1,7 @@
 # 👋 Hey there, I’m Armaan
 🛠 Learning and building web apps and exploring AI integration <br>
 🧰 Python, SQL, Next.js, React, Tailwind CSS, Node.js (Express), Prisma & PostgreSQL, Firebase, Supabase, AWS <br>
-💡 Always up for collaborating on projects that make an impact <br>
-🎨 Currently working on my portfolio website <br>
+💡 Always up for collaborating on projects <br>
 
 
 # 💻 Tech Stack:
